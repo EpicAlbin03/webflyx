@@ -1,2 +1,1 @@
-# boot.dev "Learn Git" course
-https://www.boot.dev/courses/learn-git
+Boot.dev [Learn Git](https://www.boot.dev/courses/learn-git) course
